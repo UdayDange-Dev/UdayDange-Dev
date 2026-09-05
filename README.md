@@ -22,87 +22,94 @@
 - 🤔 Looking for help with advanced **system design** and **performance tuning** at scale.
 - 💬 Ask me about **Spring Boot, RESTful APIs, JWT security, Docker, or Angular**.
 - 📫 Reach me at **udaydange6@gmail.com**
-- 🎓 Pursuing **MCA (Master of Computer Applications)** at PIRENS IMBA College, Loni (Savitribai Phule Pune University) — 2023–2026.
+- 🎓 Pursuing **B.Voc (Bachelor of Vocational)** at PIRENS IMBA College, Loni (Savitribai Phule Pune University) — 2023–2026.
 - ⚡ Fun fact: I've shipped APIs that respond 15% faster than my coffee gets cold ☕
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-<div align="center">
-
-**Backend & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,microsoftsqlserver&theme=dark" />
-
-**Tools & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,postman,git,jira&theme=dark" />
-
-**IDEs**
-<br/>
-<img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" />
-
-</div>
-
-<details>
-<summary>📌 <b>Click for full breakdown (Security, Testing & Methodologies)</b></summary>
-<br/>
-
-| Category | Skills |
-|---|---|
-| 🔐 Security | OAuth 2.0, JWT Authentication, Spring Security |
-| 🧪 Testing | JUnit, JMeter, Swagger UI, Postman |
-| 📋 Methodologies | Agile, Scrum, Sprint Planning, Code Reviews |
-
-</details>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=udaydange-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=udaydange-dev&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaydange-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaydange-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
-</p>
-
----
-
-### 🌟 Featured Project
-
-<table align="center">
+<table>
 <tr>
-<td width="100%">
+<td valign="top" width="50%">
 
-**🛍️ KusumVatika** — E-commerce Platform
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,angular,mongodb,docker&theme=dark" />
+**⚙️ Backend**
+```
+Java          ████████████████░░  85%
+Spring Boot   █████████████████░  90%
+REST APIs     █████████████████░  90%
+Microservices ███████████████░░░  80%
+JWT / OAuth2  ████████████████░░  85%
+```
 
-- ⚡ Modular Spring Boot microservices backend, cutting API response time by **15%**
-- 🔐 Secure JWT + Spring Security authentication and access control
-- 🖥️ Angular 17 frontend integrated with RESTful backend services
-- 🐳 Dockerized for consistent, portable deployments
-- 📄 API docs and testing via Swagger UI, Postman, and JMeter
+**🗄️ Databases**
+```
+MongoDB       ████████████████░░  85%
+MySQL         ███████████████░░░  80%
+SQL Server    █████████████░░░░░  70%
+```
+
+</td>
+<td valign="top" width="50%">
+
+**🎨 Frontend**
+```
+Angular 17    ███████████████░░░  80%
+TypeScript    ██████████████░░░░  75%
+JavaScript    ██████████████░░░░  75%
+HTML/CSS      █████████████████░  90%
+```
+
+**🧰 Tools & DevOps**
+```
+Docker        ███████████████░░░  80%
+Git           █████████████████░  90%
+Jenkins (CI)  ████████████░░░░░░  65%
+Postman/Swag  █████████████████░  90%
+```
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+`Agile` · `Scrum` · `Sprint Planning` · `Code Reviews` · `JUnit` · `JMeter` · `IntelliJ IDEA` · `VS Code` · `Jira`
+
+</div>
+
+---
+
+### 🏆 By the Numbers
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaydange-dev&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaydange-dev&theme=algolia&hide_border=true&background=0D1117" width="49%"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=udaydange-dev&theme=github-compact&hide_border=true&bg_color=0D1117" width="49%"/>
+
+</div>
+
+---
+
+### 🌟 Spotlight Project
+
+```bash
+$ project --info KusumVatika
+
+🛍️  KusumVatika · E-Commerce Platform
+────────────────────────────────────────
+  Stack     : Spring Boot · Angular 17 · MongoDB
+  Security  : JWT Authentication + Spring Security
+  Infra     : Dockerized, portable across environments
+  Docs/QA   : Swagger UI · Postman · JMeter
+
+  ⚡ result  : API response time improved by 15%
+────────────────────────────────────────
+$ status: shipped ✅
+```
 
 ---
 
