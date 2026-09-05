@@ -106,37 +106,70 @@
 
 ---
 
-### 🌟 Spotlight Project
+### 🌟 Featured Projects
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6DB33F,100:1a1a2e&height=3"/>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-#### 🛍️ KusumVatika
-**E-Commerce Platform** · Koktail Soft Pvt Ltd
+#### 🌱 KusumVatika
+E-commerce platform for plants & gardening products, with full cart-to-checkout workflow, product management, and secure user authentication.
 
-Modular Spring Boot microservices backend with a secure, high-performance REST API layer, integrated with an Angular 17 storefront.
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
-- Designed RESTful APIs for secure, high-performance client–server data exchange
-- Integrated JWT Authentication + Spring Security for access control
-- Containerized all services with Docker for consistent deployment
-- Documented & tested APIs using Swagger UI, Postman, and JMeter
-- Collaborated in Agile sprints with QA/DevOps, including code reviews
+🔗 [kusumvatika.com](https://kusumvatika.com/)
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="50%" valign="top">
 
-**Impact**
+#### ✅ Task Manager
+Full CRUD task management app with JWT authentication, RESTful API integration, and role-based access control.
 
-<img src="https://img.shields.io/badge/API%20Speed-%2B15%25-6DB33F?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Auth-JWT%20Secured-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Deploy-Dockerized-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Team-Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌤️ WeatherNow
+Responsive weather app delivering real-time temperature, forecasts, and city search via the OpenWeatherMap API.
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/OpenWeatherMap_API-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌌 Uday Dange Portfolio
+Space-themed developer portfolio with animated routes, interactive UI, and a dark/light theme toggle.
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+
+🔗 [madeby-uday.web.app](https://madeby-uday.web.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 Sanvidhi
+Live business website built for a clean, accessible, and professional online presence.
+
+<img src="https://img.shields.io/badge/Web_Development-1a1a2e?style=flat-square"/> <img src="https://img.shields.io/badge/Responsive_UI-1a1a2e?style=flat-square"/>
+
+🔗 [sanvidhi.in](https://sanvidhi.in/)
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 Uday Digital Solutions
+Professional digital solutions website presenting services, contact info, and a polished business web presence.
+
+<img src="https://img.shields.io/badge/Web_Development-1a1a2e?style=flat-square"/> <img src="https://img.shields.io/badge/Business_Website-1a1a2e?style=flat-square"/>
+
+🔗 [uday-digital-solutions.web.app](https://uday-digital-solutions.web.app/)
 
 </td>
 </tr>
