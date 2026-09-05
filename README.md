@@ -29,54 +29,66 @@
 
 ### 🛠️ Tech Arsenal
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6DB33F,100:1a1a2e&height=3&section=header"/>
+
 <table>
 <tr>
-<td valign="top" width="50%">
-
-**⚙️ Backend**
-```
-Java          ████████████████░░  85%
-Spring Boot   █████████████████░  90%
-REST APIs     █████████████████░  90%
-Microservices ███████████████░░░  80%
-JWT / OAuth2  ████████████████░░  85%
-```
-
-**🗄️ Databases**
-```
-MongoDB       ████████████████░░  85%
-MySQL         ███████████████░░░  80%
-SQL Server    █████████████░░░░░  70%
-```
-
+<td align="center" width="20%"><b>⚙️ Backend</b></td>
+<td width="80%">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=buildkite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </td>
-<td valign="top" width="50%">
-
-**🎨 Frontend**
-```
-Angular 17    ███████████████░░░  80%
-TypeScript    ██████████████░░░░  75%
-JavaScript    ██████████████░░░░  75%
-HTML/CSS      █████████████████░  90%
-```
-
-**🧰 Tools & DevOps**
-```
-Docker        ███████████████░░░  80%
-Git           █████████████████░  90%
-Jenkins (CI)  ████████████░░░░░░  65%
-Postman/Swag  █████████████████░  90%
-```
-
+</tr>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔐 Security</b></td>
+<td>
+<img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 DevOps & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧪 Testing & IDE</b></td>
+<td>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-`Agile` · `Scrum` · `Sprint Planning` · `Code Reviews` · `JUnit` · `JMeter` · `IntelliJ IDEA` · `VS Code` · `Jira`
-
-</div>
 
 ---
 
@@ -96,20 +108,39 @@ Postman/Swag  █████████████████░  90%
 
 ### 🌟 Spotlight Project
 
-```bash
-$ project --info KusumVatika
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6DB33F,100:1a1a2e&height=3"/>
 
-🛍️  KusumVatika · E-Commerce Platform
-────────────────────────────────────────
-  Stack     : Spring Boot · Angular 17 · MongoDB
-  Security  : JWT Authentication + Spring Security
-  Infra     : Dockerized, portable across environments
-  Docs/QA   : Swagger UI · Postman · JMeter
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  ⚡ result  : API response time improved by 15%
-────────────────────────────────────────
-$ status: shipped ✅
-```
+#### 🛍️ KusumVatika
+**E-Commerce Platform** · Koktail Soft Pvt Ltd
+
+Modular Spring Boot microservices backend with a secure, high-performance REST API layer, integrated with an Angular 17 storefront.
+
+- Designed RESTful APIs for secure, high-performance client–server data exchange
+- Integrated JWT Authentication + Spring Security for access control
+- Containerized all services with Docker for consistent deployment
+- Documented & tested APIs using Swagger UI, Postman, and JMeter
+- Collaborated in Agile sprints with QA/DevOps, including code reviews
+
+</td>
+<td width="40%" valign="top" align="center">
+
+**Impact**
+
+<img src="https://img.shields.io/badge/API%20Speed-%2B15%25-6DB33F?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Auth-JWT%20Secured-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Deploy-Dockerized-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Team-Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
