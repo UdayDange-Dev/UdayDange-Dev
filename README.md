@@ -22,7 +22,7 @@
 - 🤔 Looking for help with advanced **system design** and **performance tuning** at scale.
 - 💬 Ask me about **Spring Boot, RESTful APIs, JWT security, Docker, or Angular**.
 - 📫 Reach me at **udaydange6@gmail.com**
-- 🎓 Pursuing **B.Voc (Bachelor of Vocational)** at PIRENS IMBA College, Loni (Savitribai Phule Pune University) — 2023–2026.
+- 🎓 Pursuing **MCA (Master of Computer Applications)** at PIRENS IMBA College, Loni (Savitribai Phule Pune University) — 2023–2026.
 - ⚡ Fun fact: I've shipped APIs that respond 15% faster than my coffee gets cold ☕
 
 ---
