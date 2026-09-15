@@ -433,14 +433,6 @@ business web presence.
 
 </div>
 
-🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=udaydange-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
 🎓 Education
 
 <div align="center">
@@ -458,35 +450,144 @@ Savitribai Phule Pune University
 My academic journey provided me with a strong foundation in
 software development, programming, databases, web technologies
 and application development.
-
-🎯 Current Focus
+# 🎯 Current Focus
 
 <div align="center">
 
-🚀 Current Focus
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:209CEE,100:00C9A7&height=4&section=header" width="85%"/>
 
-🔭 Exploring
+<br><br>
 
-ERPNext / Frappe
+### Building deeper expertise. One layer at a time.
 
-System Design
+</div>
 
-Full-Stack Development
+<br>
 
-Scalable Architecture
+<table>
+<tr>
 
-Business Applications
+<td width="50%" valign="top">
 
-Automation
+## 🏢 ERPNext & Frappe
 
-REST API Integration
+Going deeper into **ERPNext and Frappe development**,
+with a focus on building customized business applications.
 
-Cloud & DevOps
+`Custom Apps`  
+`DocTypes`  
+`CRM`  
+`Workflows`  
+`Permissions`  
+`Reports`  
+`Automation`
 
-CRM Solutions
+</td>
 
-Performance Optimization
+<td width="50%" valign="top">
 
+## 🌐 Full-Stack Development
+
+Strengthening my ability to build complete applications
+from **frontend to backend and database**.
+
+`Angular`  
+`TypeScript`  
+`Java`  
+`Spring Boot`  
+`REST APIs`  
+`MongoDB / SQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔗 Integrations & Automation
+
+Exploring better ways to connect systems and automate
+repetitive business processes.
+
+`REST APIs`  
+`WhatsApp API`  
+`API Integrations`  
+`Webhooks`  
+`Business Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏗️ Software Architecture
+
+Improving my understanding of how to design systems that
+are **maintainable, reliable and scalable**.
+
+`System Design`  
+`Clean Architecture`  
+`Performance`  
+`Security`  
+`Scalability`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ☁️ DevOps & Deployment
+
+Learning more about reliable development and deployment
+workflows.
+
+`Docker`  
+`CI/CD`  
+`Jenkins`  
+`Linux`  
+`Cloud Deployment`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Data & Business Intelligence
+
+Exploring how software and data can work together to
+produce meaningful business insights.
+
+`SQL`  
+`Power BI`  
+`Dashboards`  
+`MIS`  
+`Data Visualization`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🔄 My Learning Loop
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILD-209CEE?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/LEARN-6C63FF?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/EXPERIMENT-00A884?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/IMPROVE-209CEE?style=for-the-badge"/>
+
+</div>
 </div>
 # 💡 What I Bring
 
