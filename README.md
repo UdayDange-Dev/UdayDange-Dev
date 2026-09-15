@@ -1,151 +1,84 @@
-# 👋 Hey, I'm Uday Dange
+# Hey, I'm Uday 👋
 
-### Software Developer · ERPNext / Frappe · Full-Stack Development
+### Software Developer | Full-Stack Developer | ERPNext & Frappe
 
-> **Building practical software, solving real problems, and constantly learning.**
+I build web applications, business systems, and digital experiences
+with a focus on clean architecture, useful features, and real-world problems.
 
-<p align="left">
-  <a href="https://github.com/UdayDange-Dev">
-  </a>
-  <a href="https://madeby-uday.web.app/home">
-  </a>
-</p>
+Currently working with modern web technologies and exploring
+ERPNext, Frappe, backend systems, APIs, and automation.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 What I Work With
 
-I'm a **Software Developer** focused on building scalable web applications, business systems, and modern user experiences.
+**Frontend**
+Angular · React · JavaScript · TypeScript · HTML · CSS
 
-Currently, I work extensively with **ERPNext & Frappe**, developing custom business workflows, integrations, APIs, reports, and UI customizations.
+**Backend**
+Node.js · Python · Java · Spring Boot · REST APIs
 
-I enjoy working across the stack — from designing interfaces to building backend logic and connecting systems together.
+**Business Systems**
+Frappe · ERPNext · Custom ERP Development
 
-* 🎓 B.Voc — Software Development
-* 📊 CGPA — **8.36**
-* 💼 Software Developer / ERP Developer
-* 🌱 Currently exploring **ERPNext, Frappe & full-stack development**
-* ⚡ Interested in **Web Development, ERP Systems, Data & Automation**
-* 🎯 Always learning. Always building.
+**Database & Cloud**
+MongoDB · SQL · Firebase
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
-</p>
-
-### Backend & Business Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb" />
-</p>
-
-**Frappe · ERPNext · REST APIs · JWT · TypeORM**
-
-### Data & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman,vscode" />
-</p>
-
-**SQL · Power BI · Firebase · Swagger · Bitbucket**
+**Tools**
+Git · GitHub · Docker · Postman · Swagger · Power BI
 
 ---
 
-## 🚀 What I Build
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🌐 Web Applications                       │
-│   ⚙️  ERP & Business Automation              │
-│   🔗 REST API Integrations                   │
-│   📊 Dashboards & Data Solutions             │
-│   🎨 Modern UI / UX                          │
-│   ☁️  Cloud Deployments                      │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 📌 Featured Projects
+## 🧩 Featured Work
 
 ### 🌾 Agrismart ERP
+Custom ERPNext/Frappe solutions for agricultural business operations.
 
-Custom **ERPNext / Frappe** implementation for agricultural business operations.
-
-**Focus:**
-CRM · Customer Management · Sales · HR · Attendance · Payroll · WhatsApp Integration · Reports · Custom Workflows
-
----
+CRM · Customer Management · Sales · HR · Payroll · WhatsApp Integration
 
 ### 🌱 KusumVatika
+E-commerce platform focused on plant and agricultural products.
 
-Plant e-commerce platform developed with a modern web stack.
-
-**Focus:**
-E-commerce · REST APIs · Authentication · Product Management · Backend Services
-
----
-
-### 💼 Personal Portfolio
-
-A modern Angular-based portfolio showcasing my projects, skills, and work.
-
-**Tech:**
-Angular · TypeScript · Firebase
+### 💻 Personal Portfolio
+My personal portfolio built with Angular and Firebase.
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uday9151&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday9151&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UdayDange-Dev&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayDange-Dev&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 A Little More About Me
 
-```text
-Frappe Framework
-       ↓
-ERPNext Customization
-       ↓
-Advanced Backend Development
-       ↓
-System Integration & Automation
-       ↓
-Better Software Architecture
-```
+🎓 B.Voc — Software Development  
+📈 CGPA — 8.36  
+💻 Software Developer  
+🌱 Always learning something new  
+⚡ I enjoy turning ideas into working products
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, builders, and people working on interesting software projects.
-
 <p align="left">
-  <a href="https://github.com/uday9151">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/UdayDange-Dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://ud-portfolio-a50b7.web.app/home">
-    <img src="https://img.shields.io/badge/Portfolio-209CEE?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-209CEE?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Build something useful. Make it better. Keep learning."</i>
-</p>
-
-<p align="center">
-  ⭐ From <a href="https://github.com/uday9151">Uday Dange</a>
+  <i>Building. Learning. Improving.</i>
 </p>
