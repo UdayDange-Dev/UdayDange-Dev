@@ -1,71 +1,180 @@
 <div align="center">
 
-# UDAY DANGE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:209CEE,50:6C63FF,100:00C9A7&height=220&section=header&text=Uday%20Dange&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20ERPNext%20%26%20Frappe&descAlignY=58&descSize=18"/>
 
-### Software Developer
+</div>
 
-**Full-Stack Development · ERPNext · Frappe · Web Technologies**
+<div align="center">
+
+### Software Developer • Full-Stack Developer • ERPNext / Frappe Developer
+
+<p>
+I build web applications, business systems, APIs and ERP solutions
+that solve real-world problems.
+</p>
 
 <br>
 
 <a href="https://github.com/UdayDange-Dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-UdayDange--Dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-209CEE?style=flat-square&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-Visit-209CEE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-<br>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=UdayDange-Dev&style=flat-square&color=209CEE&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## `01` — INTRODUCTION
+# 👨‍💻 About Me
 
-Hi, I'm **Uday**.
+I'm **Uday Dange**, a Software Developer passionate about building
+useful, scalable and business-focused software solutions.
 
-I'm a Software Developer who enjoys turning ideas and business
-requirements into **working software**.
+My development journey started with **software development fundamentals**
+and gradually expanded into **full-stack web development, backend systems,
+ERP solutions, APIs, databases, integrations and cloud deployment**.
 
-My development journey covers both sides of the stack — from
-building interfaces and APIs to working with databases, ERP systems,
-integrations, and deployment.
+Today, a major part of my professional work is focused on
+**ERPNext and Frappe**, where I work on custom business applications,
+CRM workflows, ERP customization, integrations, reports and automation.
 
-At the moment, a major part of my work revolves around
-**ERPNext & Frappe**, where I build and customize solutions around
-real business workflows.
+I enjoy working across the complete development lifecycle:
 
-> **I don't just build features. I try to understand the problem behind them.**
+**Understand → Design → Develop → Integrate → Test → Deploy → Improve**
 
 ---
 
-## `02` — WHAT I DO
+# 💼 Career Journey
+
+### 🚀 Software Developer
+
+**Koktail Soft Pvt. Ltd. — Pune**
+
+My professional experience includes developing and customizing
+business-oriented software solutions.
+
+My work involves:
+
+- Full-stack web development
+- ERPNext / Frappe customization
+- Business workflow development
+- CRM development
+- REST API integrations
+- Database management
+- Authentication and authorization
+- Reports and dashboards
+- WhatsApp API integration
+- ERP automation
+- Deployment and environment management
+
+---
+
+### 🧑‍💻 Software Developer Intern
+
+**Koktail Soft Pvt. Ltd. — Pune**
+
+During my internship, I worked as a **Software Developer Intern**
+and gained practical experience in backend and web application development.
+
+#### Key Work
+
+- Developed backend services using **Spring Boot**
+- Built and integrated **RESTful APIs**
+- Implemented authentication using **JWT**
+- Worked with **MongoDB**
+- Contributed to the **KusumVatika e-commerce platform**
+- Worked with frontend/backend integration
+- Learned production-oriented software development practices
+
+This experience helped me move from academic development
+towards real-world software engineering.
+
+---
+
+# 🎓 Education
+
+### B.Voc — Software Development
+
+**CGPA: 8.36**
+
+My academic journey gave me a strong foundation in:
+
+- Programming
+- Software Development
+- Web Technologies
+- Database Systems
+- Application Development
+- Software Engineering fundamentals
+
+---
+
+# 🧰 Technical Skills
+
+<div align="center">
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react"/>
+
+<br><br>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring"/>
+
+<br><br>
+
+## Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+<br><br>
+
+## Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+
+</div>
+
+<br>
+
+### Frameworks & Technologies
 
 ```text
-┌──────────────────────┐    ┌──────────────────────┐
-│   FRONTEND           │    │   BACKEND            │
-│                      │    │                      │
-│   Angular            │    │   Node.js            │
-│   React              │    │   Python             │
-│   TypeScript         │    │   Java / Spring Boot │
-│   JavaScript         │    │   REST APIs          │
-└──────────────────────┘    └──────────────────────┘
+Angular
+React
+JavaScript
+TypeScript
+HTML5
+CSS3
 
+Node.js
+Python
+Java
+Spring Boot
 
-┌──────────────────────┐    ┌──────────────────────┐
-│   BUSINESS SYSTEMS   │    │   DATA & CLOUD        │
-│                      │    │                      │
-│   ERPNext            │    │   MongoDB            │
-│   Frappe             │    │   SQL                │
-│   CRM                │    │   Firebase           │
-│   Automation         │    │   Power BI            │
-└──────────────────────┘    └──────────────────────┘
+Frappe
+ERPNext
+REST APIs
+JWT
+TypeORM
+
+MongoDB
+MongoDB Atlas
+SQL
+MySQL
+
+Firebase
+Docker
+Git
+GitHub
+Bitbucket
+Postman
+Swagger
+Power BI
