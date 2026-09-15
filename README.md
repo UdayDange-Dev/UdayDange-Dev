@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Uday%20Dange&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&color=0:00C9A7,45:209CEE,100:6C63FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Uday%20Dange&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&color=0:00C9A7,45:209CEE,100:6C63FF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=209CEE&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;ERPNext+%7C+Frappe+Developer;Building+Business+Solutions+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=209CEE&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;ERPNext+%7C+Frappe+Developer;Building+Business+Solutions;Turning+Ideas+into+Working+Software" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://madeby-uday.web.app/">
-<img src="https://img.shields.io/badge/%E2%9C%A6%20Portfolio-209CEE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-209CEE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/uday-dange">
@@ -28,90 +28,65 @@
 
 ---
 
-<div align="center">
+# 👋 Hello, I'm Uday
 
-## `WHO I AM`
+### Software Engineer • Full Stack Developer • ERPNext / Frappe Developer
 
-### 👋 Hi, I'm **Uday Dange**
+I'm a Software Engineer passionate about building **web applications,
+business systems, ERP solutions and practical software products**.
 
-**Software Engineer | Full Stack Developer | ERPNext & Frappe Developer**
+My development journey has taken me from learning software development
+fundamentals to working on **full-stack applications, REST APIs,
+databases, ERP systems, integrations and production business workflows**.
 
-</div>
+I enjoy working across the complete development lifecycle — understanding
+requirements, designing solutions, writing code, integrating systems,
+debugging problems and delivering working software.
 
-I am a Software Developer passionate about creating **scalable,
-user-focused and business-driven software solutions**.
-
-My journey started with learning the fundamentals of software development
-and gradually evolved into building complete applications across the
-**frontend, backend, database and deployment layers**.
-
-Today, my work combines **Full-Stack Development with ERP systems**,
-where I build and customize solutions that solve real business problems.
-
-I enjoy taking a requirement from an idea on paper and turning it into
-a working, maintainable product.
-
-<br>
-
-<div align="center">
-
-`CODE` &nbsp;•&nbsp; `BUILD` &nbsp;•&nbsp; `SOLVE` &nbsp;•&nbsp; `LEARN`
-
-</div>
+> **I believe good software starts with understanding the problem.**
 
 ---
 
-# 💼 Career Journey
-
-<div align="center">
-
-### From learning software development → to building production systems
-
-</div>
+# 🚀 My Career Journey
 
 ```text
-2023
- │
- ├── 🎓 B.Voc Software Development
- │
- │
- ▼
-2024
- │
- ├── 🧑‍💻 Software Developer Intern
- │      Koktail Soft Pvt. Ltd.
- │
- │      Spring Boot
- │      REST APIs
- │      JWT
- │      MongoDB
- │      E-Commerce
- │
- │
- ▼
-2025
- │
- ├── 🚀 Software Developer
- │      Professional Software Development
- │
- │      Full-Stack Development
- │      Angular
- │      Java / Spring Boot
- │      APIs
- │      Databases
- │
- │
- ▼
-2026
- │
- └── ⚡ Software Engineer
-        Savidhi Tech Pvt. Ltd.
-
-        ERPNext / Frappe
-        CRM
-        ERP Customization
-        Business Automation
-        API Integrations
-        WhatsApp Integration
-        HR & Payroll
-        Reports & MIS
+                 🎓 EDUCATION
+                     │
+                     ▼
+          B.Voc — Software Development
+                  CGPA 8.36
+                     │
+                     ▼
+              🧑‍💻 INTERNSHIP
+                     │
+                     ▼
+           Koktail Soft Pvt. Ltd.
+            Software Developer Intern
+                     │
+                     ├── Spring Boot
+                     ├── REST APIs
+                     ├── JWT
+                     ├── MongoDB
+                     └── E-Commerce
+                     │
+                     ▼
+             💻 SOFTWARE DEVELOPMENT
+                     │
+                     ▼
+          Full Stack Development
+                     │
+              Angular + Java
+              Spring Boot + APIs
+                     │
+                     ▼
+             ⚡ SOFTWARE ENGINEER
+                     │
+                     ▼
+             Savidhi Tech Pvt. Ltd.
+                     │
+                     ├── ERPNext
+                     ├── Frappe
+                     ├── CRM
+                     ├── Business Automation
+                     ├── API Integrations
+                     └── Custom ERP Solutions
