@@ -5,10 +5,10 @@
 > **Building practical software, solving real problems, and constantly learning.**
 
 <p align="left">
-  <a href="https://github.com/uday9151">
+  <a href="https://github.com/UdayDange-Dev">
     <img src="https://img.shields.io/badge/GitHub-uday9151-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://ud-portfolio-a50b7.web.app/home">
+  <a href="https://madeby-uday.web.app/home">
     <img src="https://img.shields.io/badge/Portfolio-Visit-209CEE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
