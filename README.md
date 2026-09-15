@@ -86,153 +86,143 @@ I believe good software starts with understanding the problem.
                      ├── API Integrations
                      └── Custom ERP Solutions
 
-💼 Professional Experience
+# 💼 Professional Experience
 
-⚡ Software Engineer
+<div align="center">
 
-Savidhi Tech Pvt. Ltd.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:209CEE,100:6C63FF&height=4&section=header" width="85%"/>
 
-Working on business-focused software solutions and
-customized ERP systems.
+</div>
 
-Areas of Work
+<br>
 
-ERPNext / Frappe development
+<table>
+<tr>
 
-Full-stack application development
+<td width="25%" align="center" valign="top">
 
-CRM customization
+### ⚡
 
-Lead management
+**SOFTWARE**  
+**ENGINEER**
 
-Customer management
+<br>
 
-Business workflow automation
+`CURRENT ROLE`
 
-REST API integrations
+</td>
 
-WhatsApp Cloud API integration
+<td width="75%" valign="top">
 
-HR & Payroll customization
+## Savidhi Tech Pvt. Ltd.
 
-Employee attendance systems
+### Software Engineer
 
-Reports and MIS
+**📍 Pune, India**
 
-Custom DocTypes
+<br>
 
-Client Scripts
+I'm currently working on **business-focused software solutions,
+ERP systems and custom application development**, with a strong
+focus on **ERPNext, Frappe and full-stack development**.
 
-Server Scripts
+<br>
 
-Permission management
+### What I Work On
 
-Custom Print Formats
+| Area | Focus |
+|---|---|
+| 🏢 ERP | ERPNext & Frappe customization |
+| 👥 CRM | Leads, customers, opportunities & follow-ups |
+| 🔗 Integration | REST APIs & WhatsApp Cloud API |
+| 👨‍💼 HR | Employees, attendance & payroll |
+| 📊 Analytics | Reports, MIS & business dashboards |
+| ⚙️ Development | DocTypes, Client Scripts & Server Scripts |
+| 🔐 Security | Permissions, roles & data visibility |
+| 🖨️ Customization | Print Formats & workflows |
 
-Data imports and migration
+</td>
 
-Production debugging and deployment
+</tr>
+</table>
 
-🧑‍💻 Software Developer Intern
+<br>
 
-Koktail Soft Pvt. Ltd. · Pune
+<div align="center">
 
-During my internship, I gained hands-on experience in
-real-world software development and backend engineering.
+<img src="https://img.shields.io/badge/ERPNext-2490EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-Key Technologies
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### 🧑‍💻
+
+**SOFTWARE**  
+**DEVELOPER INTERN**
+
+<br>
+
+`EARLY CAREER`
+
+</td>
+
+<td width="75%" valign="top">
+
+## Koktail Soft Pvt. Ltd.
+
+### Software Developer Intern
+
+**📍 Pune, India**
+
+<br>
+
+Worked on real-world web application development with a focus
+on **Java, Spring Boot, REST APIs and MongoDB**.
+
+<br>
+
+### Key Contributions
+
+- Developed **RESTful APIs** using Spring Boot
+- Implemented **JWT authentication**
+- Worked with **MongoDB**
+- Integrated frontend and backend services
+- Developed application business logic
+- Contributed to the **KusumVatika e-commerce platform**
+
+<br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-209CEE?style=flat-square"/>
 
-What I Worked On
+</td>
 
-Developed RESTful APIs using Spring Boot
+</tr>
+</table>
 
-Implemented JWT-based authentication
+<div align="center">
 
-Worked with MongoDB
+<br>
 
-Integrated frontend and backend services
+`2024` ━━━━━━━━━━━━━━━━━━━━━━━ `2026`
 
-Developed business logic
+<br>
 
-Worked on production-oriented features
+**Internship** → **Software Development** → **Software Engineering**
 
-Contributed to the KusumVatika platform
-
-🌾 Professional Project
-
-Agrismart ERP
-
-ERPNext • Frappe • CRM • Business Automation
-
-A customized ERP ecosystem designed for agricultural
-business operations and real-world business workflows.
-
-CRM
-
-Lead registration
-
-Lead assignment
-
-Lead tracking
-
-Opportunity management
-
-Follow-up management
-
-Sales pipeline
-
-Marketing source tracking
-
-Territory management
-
-Farmer information
-
-Customer conversion
-
-ERP & Business Operations
-
-Customer Management
-
-Sales
-
-HR
-
-Attendance
-
-Payroll
-
-Employee Management
-
-Reports
-
-MIS
-
-Branch management
-
-Company-level data control
-
-Integrations
-
-WhatsApp Cloud API
-
-REST APIs
-
-ERPNext integrations
-
-External services
-
-Custom Development
-
-DocTypes · Client Scripts · Server Scripts
-· Permission Queries · Print Formats
-· Custom Reports · Data Import · Naming Series
-
+</div>
 🛠️ Tech Arsenal
 
 <div align="center">
