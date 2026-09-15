@@ -1,17 +1,19 @@
-<h1 align="center">Hi there, I'm Uday Dange 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=560&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+Angular+Enthusiast;Building+Scalable+Microservices;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+<img src="./assets/glass-banner.svg" width="100%" alt="Uday Dange — Java Full Stack Developer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6,38BDF8,34D399&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+Angular+Enthusiast;Building+Scalable+Microservices;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+
+<p>
+  <a href="https://madeby-uday.web.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/uday-dange"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:udaydange6@gmail.com"><img src="https://img.shields.io/badge/Email-34D399?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=udaydange-dev&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://madeby-uday.web.app/"><img src="https://img.shields.io/badge/Portfolio-6DB33F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/uday-dange"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:udaydange6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=udaydange-dev&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,50:8B5CF6,100:38BDF8&height=6&section=header&animation=fadeIn"/>
 
 ### 🚀 About Me
 
@@ -25,11 +27,9 @@
 - 🎓 Pursuing **MCA (Master of Computer Applications)** at PIRENS IMBA College, Loni (Savitribai Phule Pune University) — 2023–2026.
 - ⚡ Fun fact: I've shipped APIs that respond 15% faster than my coffee gets cold ☕
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:34D399&height=3"/>
 
 ### 🛠️ Tech Arsenal
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6DB33F,100:1a1a2e&height=3&section=header"/>
 
 <table>
 <tr>
@@ -55,8 +55,8 @@
 <tr>
 <td align="center"><b>🔐 Security</b></td>
 <td>
-<img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-8B5CF6?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 </td>
 </tr>
@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-38BDF8?style=for-the-badge&logo=jira&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:34D399,100:38BDF8&height=3"/>
 
 ### 🏆 By the Numbers
 
@@ -99,16 +99,12 @@
 </p>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaydange-dev&theme=algolia&hide_border=true&background=0D1117" width="49%"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=udaydange-dev&theme=github-compact&hide_border=true&bg_color=0D1117" width="49%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaydange-dev&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="49%"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=udaydange-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&border_radius=15" width="49%"/>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8B5CF6&height=3"/>
 
 ### 🌟 Featured Projects
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6DB33F,100:1a1a2e&height=3"/>
 
 <table>
 <tr>
@@ -127,7 +123,7 @@ E-commerce platform for plants & gardening products, with full cart-to-checkout 
 #### ✅ Task Manager
 Full CRUD task management app with JWT authentication, RESTful API integration, and role-based access control.
 
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 
 </td>
 </tr>
@@ -157,7 +153,7 @@ Space-themed developer portfolio with animated routes, interactive UI, and a dar
 #### 🏢 Sanvidhi
 Live business website built for a clean, accessible, and professional online presence.
 
-<img src="https://img.shields.io/badge/Web_Development-1a1a2e?style=flat-square"/> <img src="https://img.shields.io/badge/Responsive_UI-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web_Development-1B1440?style=flat-square"/> <img src="https://img.shields.io/badge/Responsive_UI-1B1440?style=flat-square"/>
 
 🔗 [sanvidhi.in](https://sanvidhi.in/)
 
@@ -167,15 +163,13 @@ Live business website built for a clean, accessible, and professional online pre
 #### 💼 Uday Digital Solutions
 Professional digital solutions website presenting services, contact info, and a polished business web presence.
 
-<img src="https://img.shields.io/badge/Web_Development-1a1a2e?style=flat-square"/> <img src="https://img.shields.io/badge/Business_Website-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web_Development-1B1440?style=flat-square"/> <img src="https://img.shields.io/badge/Business_Website-1B1440?style=flat-square"/>
 
 🔗 [uday-digital-solutions.web.app](https://uday-digital-solutions.web.app/)
 
 </td>
 </tr>
 </table>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -184,3 +178,5 @@ Professional digital solutions website presenting services, contact info, and a 
 <p align="center">
   <i>"Clean code, solid APIs, and continuous delivery." 🚀</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:8B5CF6,100:0B0F2B&height=100&section=footer&animation=fadeIn"/>
