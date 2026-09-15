@@ -1,182 +1,153 @@
-<div align="center">
+# 👋 Hey, I'm Uday Dange
 
-<img src="./assets/glass-banner.svg" width="100%" alt="Uday Dange — Java Full Stack Developer"/>
+### Software Developer · ERPNext / Frappe · Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6,38BDF8,34D399&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+Angular+Enthusiast;Building+Scalable+Microservices;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+> **Building practical software, solving real problems, and constantly learning.**
+
+<p align="left">
+  <a href="https://github.com/uday9151">
+    <img src="https://img.shields.io/badge/GitHub-uday9151-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://ud-portfolio-a50b7.web.app/home">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-209CEE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Software Developer** focused on building scalable web applications, business systems, and modern user experiences.
+
+Currently, I work extensively with **ERPNext & Frappe**, developing custom business workflows, integrations, APIs, reports, and UI customizations.
+
+I enjoy working across the stack — from designing interfaces to building backend logic and connecting systems together.
+
+* 🎓 B.Voc — Software Development
+* 📊 CGPA — **8.36**
+* 💼 Software Developer / ERP Developer
+* 🌱 Currently exploring **ERPNext, Frappe & full-stack development**
+* ⚡ Interested in **Web Development, ERP Systems, Data & Automation**
+* 🎯 Always learning. Always building.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 
 <p>
-  <a href="https://madeby-uday.web.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/uday-dange"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:udaydange6@gmail.com"><img src="https://img.shields.io/badge/Email-34D399?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=udaydange-dev&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
 </p>
 
-</div>
+### Backend & Business Systems
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,50:8B5CF6,100:38BDF8&height=6&section=header&animation=fadeIn"/>
-
-### 🚀 About Me
-
-- 🔭 I'm currently working as a **Software Engineer** at **Savidhi Tech Pvt Ltd**, building full-stack solutions with Spring Boot and Angular.
-- 🎨 Check out my work on my portfolio → **[madeby-uday.web.app](https://madeby-uday.web.app/)**
-- 🌱 Sharpening my skills in **Microservices architecture**, **CI/CD with Jenkins**, and **Docker orchestration**.
-- 👯 Looking to collaborate on backend-heavy or full-stack projects involving **Spring Boot**, **REST APIs**, or **Angular**.
-- 🤔 Looking for help with advanced **system design** and **performance tuning** at scale.
-- 💬 Ask me about **Spring Boot, RESTful APIs, JWT security, Docker, or Angular**.
-- 📫 Reach me at **udaydange6@gmail.com**
-- 🎓 Pursuing **MCA (Master of Computer Applications)** at PIRENS IMBA College, Loni (Savitribai Phule Pune University) — 2023–2026.
-- ⚡ Fun fact: I've shipped APIs that respond 15% faster than my coffee gets cold ☕
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:34D399&height=3"/>
-
-### 🛠️ Tech Arsenal
-
-<table>
-<tr>
-<td align="center" width="20%"><b>⚙️ Backend</b></td>
-<td width="80%">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=buildkite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🎨 Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🔐 Security</b></td>
-<td>
-<img src="https://img.shields.io/badge/OAuth_2.0-8B5CF6?style=for-the-badge&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🧰 DevOps & Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jira-38BDF8?style=for-the-badge&logo=jira&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🧪 Testing & IDE</b></td>
-<td>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:34D399,100:38BDF8&height=3"/>
-
-### 🏆 By the Numbers
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaydange-dev&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb" />
 </p>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaydange-dev&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="49%"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=udaydange-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&border_radius=15" width="49%"/>
-</div>
+**Frappe · ERPNext · REST APIs · JWT · TypeORM**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8B5CF6&height=3"/>
+### Data & Tools
 
-### 🌟 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman,vscode" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**SQL · Power BI · Firebase · Swagger · Bitbucket**
 
-#### 🌱 KusumVatika
-E-commerce platform for plants & gardening products, with full cart-to-checkout workflow, product management, and secure user authentication.
+---
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+## 🚀 What I Build
 
-🔗 [kusumvatika.com](https://kusumvatika.com/)
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   🌐 Web Applications                       │
+│   ⚙️  ERP & Business Automation              │
+│   🔗 REST API Integrations                   │
+│   📊 Dashboards & Data Solutions             │
+│   🎨 Modern UI / UX                          │
+│   ☁️  Cloud Deployments                      │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-</td>
-<td width="50%" valign="top">
+---
 
-#### ✅ Task Manager
-Full CRUD task management app with JWT authentication, RESTful API integration, and role-based access control.
+## 📌 Featured Projects
 
-<img src="https://img.shields.io/badge/JWT-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+### 🌾 Agrismart ERP
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Custom **ERPNext / Frappe** implementation for agricultural business operations.
 
-#### 🌤️ WeatherNow
-Responsive weather app delivering real-time temperature, forecasts, and city search via the OpenWeatherMap API.
+**Focus:**
+CRM · Customer Management · Sales · HR · Attendance · Payroll · WhatsApp Integration · Reports · Custom Workflows
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/OpenWeatherMap_API-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white"/>
+---
 
-</td>
-<td width="50%" valign="top">
+### 🌱 KusumVatika
 
-#### 🌌 Uday Dange Portfolio
-Space-themed developer portfolio with animated routes, interactive UI, and a dark/light theme toggle.
+Plant e-commerce platform developed with a modern web stack.
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+**Focus:**
+E-commerce · REST APIs · Authentication · Product Management · Backend Services
 
-🔗 [madeby-uday.web.app](https://madeby-uday.web.app/)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 💼 Personal Portfolio
 
-#### 🏢 Sanvidhi
-Live business website built for a clean, accessible, and professional online presence.
+A modern Angular-based portfolio showcasing my projects, skills, and work.
 
-<img src="https://img.shields.io/badge/Web_Development-1B1440?style=flat-square"/> <img src="https://img.shields.io/badge/Responsive_UI-1B1440?style=flat-square"/>
+**Tech:**
+Angular · TypeScript · Firebase
 
-🔗 [sanvidhi.in](https://sanvidhi.in/)
+---
 
-</td>
-<td width="50%" valign="top">
-
-#### 💼 Uday Digital Solutions
-Professional digital solutions website presenting services, contact info, and a polished business web presence.
-
-<img src="https://img.shields.io/badge/Web_Development-1B1440?style=flat-square"/> <img src="https://img.shields.io/badge/Business_Website-1B1440?style=flat-square"/>
-
-🔗 [uday-digital-solutions.web.app](https://uday-digital-solutions.web.app/)
-
-</td>
-</tr>
-</table>
+## 📈 GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uday9151&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday9151&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Frappe Framework
+       ↓
+ERPNext Customization
+       ↓
+Advanced Backend Development
+       ↓
+System Integration & Automation
+       ↓
+Better Software Architecture
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, builders, and people working on interesting software projects.
+
+<p align="left">
+  <a href="https://github.com/uday9151">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://ud-portfolio-a50b7.web.app/home">
+    <img src="https://img.shields.io/badge/Portfolio-209CEE?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build something useful. Make it better. Keep learning."</i>
 </p>
 
 <p align="center">
-  <i>"Clean code, solid APIs, and continuous delivery." 🚀</i>
+  ⭐ From <a href="https://github.com/uday9151">Uday Dange</a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:8B5CF6,100:0B0F2B&height=100&section=footer&animation=fadeIn"/>
