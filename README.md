@@ -488,28 +488,107 @@ CRM Solutions
 Performance Optimization
 
 </div>
+# 💡 What I Bring
 
-💡 What I Bring
+<div align="center">
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🧠 Problem Solving                                        │
-│     Understanding requirements before writing code.         │
-│                                                             │
-│  🏗️ Full-Stack Thinking                                    │
-│     Comfortable working across UI, API and database.        │
-│                                                             │
-│  ⚙️ Business Understanding                                 │
-│     Turning real business requirements into workflows.      │
-│                                                             │
-│  🔗 Integration Mindset                                    │
-│     Connecting applications and services through APIs.      │
-│                                                             │
-│  📈 Continuous Improvement                                  │
-│     Learning, debugging and improving every iteration.      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:209CEE,100:6C63FF&height=4&section=header" width="85%"/>
 
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+## 🧠
+
+### Problem Solving
+
+I focus on understanding the
+**actual problem** before jumping
+into implementation.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 🏗️
+
+### Full-Stack Thinking
+
+I can work across the
+**UI, backend, APIs and database**
+to understand the complete system.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## ⚙️
+
+### Business Understanding
+
+I turn real business requirements
+into **practical workflows and
+software solutions**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+## 🔗
+
+### System Integration
+
+I enjoy connecting applications
+through **REST APIs, integrations
+and external services**.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 🐛
+
+### Debugging
+
+I like finding the root cause,
+understanding why something breaks,
+and **fixing it properly**.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 📈
+
+### Continuous Growth
+
+I continuously explore new
+technologies and improve the way
+I **build and solve problems**.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### My Approach
+
+`UNDERSTAND` → `DESIGN` → `BUILD` → `TEST` → `IMPROVE`
+
+</div>
 ☕ Beyond Code
 
 When I'm not coding, I enjoy exploring new technologies,
